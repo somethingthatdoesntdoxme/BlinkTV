@@ -1,4 +1,4 @@
-package com.shrieeiee.blinktv;
+package com.somethingthatdoesntdoxme.blinktv;
 
 import java.io.ByteArrayOutputStream;
 import java.io.DataInputStream;

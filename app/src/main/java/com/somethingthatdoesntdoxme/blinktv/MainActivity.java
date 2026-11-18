@@ -1,4 +1,4 @@
-package com.shrieeiee.blinktv;
+package com.somethingthatdoesntdoxme.blinktv;
 
 import android.app.Activity;
 import android.app.AlertDialog;

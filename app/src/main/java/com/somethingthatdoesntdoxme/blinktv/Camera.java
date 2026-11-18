@@ -1,4 +1,4 @@
-package com.shrieeiee.blinktv;
+package com.somethingthatdoesntdoxme.blinktv;
 
 import org.json.JSONArray;
 import org.json.JSONException;

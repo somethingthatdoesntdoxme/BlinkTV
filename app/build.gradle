@@ -1,11 +1,11 @@
 plugins { id 'com.android.application' }
 
 android {
-    namespace 'com.shrieeiee.blinktv'
+    namespace 'com.somethingthatdoesntdoxme.blinktv'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.shrieeiee.blinktv'
+        applicationId 'com.somethingthatdoesntdoxme.blinktv'
         minSdk 24
         targetSdk 35
         versionCode 1
